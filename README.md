@@ -1,8 +1,3 @@
-<head>
-  <style>
-  
-  </style>
-</head>
 <h1 align="center">Hello! I'm Jonathan Serrano</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan-serrano&label=Profile%20views&color=0e75b6&style=flat" alt="jonathan-serrano" /> </p>
 
@@ -13,7 +8,7 @@
 <a href="https://linkedin.com/in/j-serrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="j-serrano" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
